@@ -4,7 +4,7 @@
 ![Logo](Resources/sample.png)
 
 ### PCB DESIGN
-![Logo](Resources/sample1.png)
+![Logo](Resources/sample2.png)
 
 ### Schematics
 ![Logo](Resources/sample3.png)
