@@ -4,10 +4,10 @@
 ![Logo](Resources/sample.png)
 
 ### PCB DESIGN
-![Logo](Resources/sample3.png)
+![Logo](Resources/sample2.png)
 
 ### Schematics
-![Logo](Resources/sample2.png)
+![Logo](Resources/sample3.png)
 
 A small 10x LED chaser that is using the a
 - a timer ic
