@@ -1,6 +1,13 @@
 # LED CHASER 
-### Smple:
+### Samples
+### PCB
 ![Logo](Resources/sample.png)
+
+### PCB DESIGN
+![Logo](Resources/sample1.png)
+
+### Schematics
+![Logo](Resources/sample3.png)
 
 A small 10x LED chaser that is using the a
 - a timer ic
