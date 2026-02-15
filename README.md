@@ -1,5 +1,10 @@
 # LED CHASER 
 ### Samples
+### PCB Done
+![Logo](Resources/1.png)
+
+![Logo](Resources/dda.jpg)
+
 ### PCB
 ![Logo](Resources/sample.png)
 
